@@ -13,3 +13,8 @@ https://support.apple.com/en-us/HT201536
 https://support.apple.com/en-us/HT201222
 
 http://lists.apple.com/mailman/listinfo/security-announce/
+
+
+# writeups and Reports
+
+https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36
